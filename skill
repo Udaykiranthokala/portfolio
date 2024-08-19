@@ -1,0 +1,38 @@
+!<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="uday.css">
+</head>
+<body>
+    <div class="navbar">
+        <div class="navbar-left">
+         <img class="logo3" src ="https://static.vecteezy.com/system/resources/previews/009/317/261/original/skill-icon-logo-illustration-employee-skills-symbol-template-for-graphic-and-web-design-collection-free-vector.jpg" alt="">
+        </div>
+        <div class="navbar-right">
+            <a href="uday.html" class="main">HOME</a>
+            <br><br>
+         <a href="about.html" class="a-element">ABOUT</a>
+         <a href="Education.html" class="a-element">EDUCATION</a>
+         <!-- <a href="https.skill" class="a-element">SKILLS</a> -->
+         <a href="internship.html" class="a-element">INTERNSHIPS</a>
+         <a href="sports.html" class="a-element">SPORTS</a>
+        </div>
+   </div>
+
+
+   <div class="frontend">
+    <div>
+       <img  class="htmlimg"  src="https://www.bing.com/th/id/OGC.ad6518ca1c2b207117575d3796eff106?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f783%2fscreenshots%2f104300%2fshot_1295820312.gif&ehk=X95nElS7ZYKYoZx8WI5K3zEX05qS7JiVbGlJvFCmFwk%3d" alt="">
+    </div>
+    <div>
+        <img  class="cssimg" src="https://www.bing.com/th/id/OGC.a5f6a32e0b7536b8cccc17ea77bb2401?pid=1.7&rurl=https%3a%2f%2fraw.githubusercontent.com%2fbeingabeer%2fbeingabeer%2fmaster%2flogo%2fcss.gif&ehk=aPfkOOMS5mD42BXXUW5%2bbbY5pKpNIGDMPJNOMlhgkn8%3d" alt="">
+    </div>
+    <div class="java">
+        <img class="javaimg" src ="https://mern-quiz-app-by-sudhirpchavhan.vercel.app/javascript.gif" alt="" height="50px" width="50px">
+    </div>
+   </div>
+</body>
+</html>
